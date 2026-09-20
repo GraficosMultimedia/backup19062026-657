@@ -1,0 +1,45 @@
+[15-Sep-2026 12:16:21 America/Chihuahua] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'colibrip_compras.usuarios' doesn't exist in /home2/colibrip/public_html/compras/install.php:1
+Stack trace:
+#0 /home2/colibrip/public_html/compras/install.php(1): PDO->query('SELECT COUNT(*)...')
+#1 {main}
+  thrown in /home2/colibrip/public_html/compras/install.php on line 1
+[15-Sep-2026 12:16:47 America/Chihuahua] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'colibrip_compras.usuarios' doesn't exist in /home2/colibrip/public_html/compras/install.php:1
+Stack trace:
+#0 /home2/colibrip/public_html/compras/install.php(1): PDO->query('SELECT COUNT(*)...')
+#1 {main}
+  thrown in /home2/colibrip/public_html/compras/install.php on line 1
+[15-Sep-2026 12:16:51 America/Chihuahua] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'colibrip_compras.usuarios' doesn't exist in /home2/colibrip/public_html/compras/install.php:1
+Stack trace:
+#0 /home2/colibrip/public_html/compras/install.php(1): PDO->query('SELECT COUNT(*)...')
+#1 {main}
+  thrown in /home2/colibrip/public_html/compras/install.php on line 1
+[15-Sep-2026 12:21:59 America/Chihuahua] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'colibrip_compras.usuarios' doesn't exist in /home2/colibrip/public_html/compras/install.php:1
+Stack trace:
+#0 /home2/colibrip/public_html/compras/install.php(1): PDO->query('SELECT COUNT(*)...')
+#1 {main}
+  thrown in /home2/colibrip/public_html/compras/install.php on line 1
+[15-Sep-2026 12:22:04 America/Chihuahua] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'colibrip_compras.usuarios' doesn't exist in /home2/colibrip/public_html/compras/install.php:1
+Stack trace:
+#0 /home2/colibrip/public_html/compras/install.php(1): PDO->query('SELECT COUNT(*)...')
+#1 {main}
+  thrown in /home2/colibrip/public_html/compras/install.php on line 1
+[15-Sep-2026 12:23:20 America/Chihuahua] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'colibrip_compras.usuarios' doesn't exist in /home2/colibrip/public_html/compras/install.php:1
+Stack trace:
+#0 /home2/colibrip/public_html/compras/install.php(1): PDO->query('SELECT COUNT(*)...')
+#1 {main}
+  thrown in /home2/colibrip/public_html/compras/install.php on line 1
+[15-Sep-2026 12:24:06 America/Chihuahua] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'colibrip_compras.usuarios' doesn't exist in /home2/colibrip/public_html/compras/install.php:1
+Stack trace:
+#0 /home2/colibrip/public_html/compras/install.php(1): PDO->query('SELECT COUNT(*)...')
+#1 {main}
+  thrown in /home2/colibrip/public_html/compras/install.php on line 1
+[15-Sep-2026 12:26:08 America/Chihuahua] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'colibrip_compras.usuarios' doesn't exist in /home2/colibrip/public_html/compras/install.php:1
+Stack trace:
+#0 /home2/colibrip/public_html/compras/install.php(1): PDO->query('SELECT COUNT(*)...')
+#1 {main}
+  thrown in /home2/colibrip/public_html/compras/install.php on line 1
+[15-Sep-2026 12:27:28 America/Chihuahua] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'colibrip_compras.usuarios' doesn't exist in /home2/colibrip/public_html/compras/install.php:1
+Stack trace:
+#0 /home2/colibrip/public_html/compras/install.php(1): PDO->query('SELECT COUNT(*)...')
+#1 {main}
+  thrown in /home2/colibrip/public_html/compras/install.php on line 1

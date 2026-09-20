@@ -1,0 +1,144 @@
+[19-Sep-2026 00:30:26 America/Chihuahua] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'colibrip_siscar'@'localhost' (using password: NO) in /home2/colibrip/public_html/_prueba_colibri/config/runtime.php:30
+Stack trace:
+#0 /home2/colibrip/public_html/_prueba_colibri/config/runtime.php(30): PDO->__construct('mysql:host=loca...', 'colibrip_siscar', Object(SensitiveParameterValue), Array)
+#1 /home2/colibrip/public_html/_prueba_colibri/catalogo.php(7): db()
+#2 {main}
+  thrown in /home2/colibrip/public_html/_prueba_colibri/config/runtime.php on line 30
+[19-Sep-2026 00:30:31 America/Chihuahua] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'colibrip_siscar'@'localhost' (using password: NO) in /home2/colibrip/public_html/_prueba_colibri/config/runtime.php:30
+Stack trace:
+#0 /home2/colibrip/public_html/_prueba_colibri/config/runtime.php(30): PDO->__construct('mysql:host=loca...', 'colibrip_siscar', Object(SensitiveParameterValue), Array)
+#1 /home2/colibrip/public_html/_prueba_colibri/producto.php(7): db()
+#2 {main}
+  thrown in /home2/colibrip/public_html/_prueba_colibri/config/runtime.php on line 30
+[19-Sep-2026 01:53:43 America/Chihuahua] PHP Warning:  Undefined variable $pdo in /home2/colibrip/public_html/_prueba_colibri/index.php on line 47
+[19-Sep-2026 01:53:43 America/Chihuahua] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home2/colibrip/public_html/_prueba_colibri/index.php:47
+Stack trace:
+#0 {main}
+  thrown in /home2/colibrip/public_html/_prueba_colibri/index.php on line 47
+[19-Sep-2026 01:54:02 America/Chihuahua] PHP Warning:  Undefined variable $pdo in /home2/colibrip/public_html/_prueba_colibri/index.php on line 47
+[19-Sep-2026 01:54:02 America/Chihuahua] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home2/colibrip/public_html/_prueba_colibri/index.php:47
+Stack trace:
+#0 {main}
+  thrown in /home2/colibrip/public_html/_prueba_colibri/index.php on line 47
+[19-Sep-2026 01:54:08 America/Chihuahua] PHP Warning:  Undefined variable $pdo in /home2/colibrip/public_html/_prueba_colibri/index.php on line 47
+[19-Sep-2026 01:54:08 America/Chihuahua] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home2/colibrip/public_html/_prueba_colibri/index.php:47
+Stack trace:
+#0 {main}
+  thrown in /home2/colibrip/public_html/_prueba_colibri/index.php on line 47
+[19-Sep-2026 03:06:57 America/Chihuahua] PHP Fatal error:  Uncaught Error: Call to undefined function cp_webroot_url() in /home2/colibrip/public_html/_prueba_colibri/index.php:30
+Stack trace:
+#0 {main}
+  thrown in /home2/colibrip/public_html/_prueba_colibri/index.php on line 30
+[19-Sep-2026 03:06:59 America/Chihuahua] PHP Fatal error:  Uncaught Error: Call to undefined function cp_webroot_url() in /home2/colibrip/public_html/_prueba_colibri/index.php:30
+Stack trace:
+#0 {main}
+  thrown in /home2/colibrip/public_html/_prueba_colibri/index.php on line 30
+[19-Sep-2026 03:07:00 America/Chihuahua] PHP Fatal error:  Uncaught Error: Call to undefined function cp_webroot_url() in /home2/colibrip/public_html/_prueba_colibri/index.php:30
+Stack trace:
+#0 {main}
+  thrown in /home2/colibrip/public_html/_prueba_colibri/index.php on line 30
+[19-Sep-2026 03:07:01 America/Chihuahua] PHP Fatal error:  Uncaught Error: Call to undefined function cp_webroot_url() in /home2/colibrip/public_html/_prueba_colibri/index.php:30
+Stack trace:
+#0 {main}
+  thrown in /home2/colibrip/public_html/_prueba_colibri/index.php on line 30
+[19-Sep-2026 03:07:03 America/Chihuahua] PHP Fatal error:  Uncaught Error: Call to undefined function cp_webroot_url() in /home2/colibrip/public_html/_prueba_colibri/index.php:30
+Stack trace:
+#0 {main}
+  thrown in /home2/colibrip/public_html/_prueba_colibri/index.php on line 30
+[19-Sep-2026 03:07:05 America/Chihuahua] PHP Fatal error:  Uncaught Error: Call to undefined function cp_webroot_url() in /home2/colibrip/public_html/_prueba_colibri/index.php:30
+Stack trace:
+#0 {main}
+  thrown in /home2/colibrip/public_html/_prueba_colibri/index.php on line 30
+[19-Sep-2026 03:09:05 America/Chihuahua] PHP Fatal error:  Uncaught Error: Call to undefined function cp_webroot_url() in /home2/colibrip/public_html/_prueba_colibri/index.php:30
+Stack trace:
+#0 {main}
+  thrown in /home2/colibrip/public_html/_prueba_colibri/index.php on line 30
+[19-Sep-2026 03:09:10 America/Chihuahua] PHP Fatal error:  Uncaught Error: Call to undefined function cp_webroot_url() in /home2/colibrip/public_html/_prueba_colibri/index.php:30
+Stack trace:
+#0 {main}
+  thrown in /home2/colibrip/public_html/_prueba_colibri/index.php on line 30
+[19-Sep-2026 03:09:35 America/Chihuahua] PHP Fatal error:  Uncaught Error: Call to undefined function cp_webroot_url() in /home2/colibrip/public_html/_prueba_colibri/index.php:30
+Stack trace:
+#0 {main}
+  thrown in /home2/colibrip/public_html/_prueba_colibri/index.php on line 30
+[19-Sep-2026 03:09:36 America/Chihuahua] PHP Fatal error:  Uncaught Error: Call to undefined function cp_webroot_url() in /home2/colibrip/public_html/_prueba_colibri/index.php:30
+Stack trace:
+#0 {main}
+  thrown in /home2/colibrip/public_html/_prueba_colibri/index.php on line 30
+[19-Sep-2026 03:09:36 America/Chihuahua] PHP Fatal error:  Uncaught Error: Call to undefined function cp_webroot_url() in /home2/colibrip/public_html/_prueba_colibri/index.php:30
+Stack trace:
+#0 {main}
+  thrown in /home2/colibrip/public_html/_prueba_colibri/index.php on line 30
+[19-Sep-2026 03:09:36 America/Chihuahua] PHP Fatal error:  Uncaught Error: Call to undefined function cp_webroot_url() in /home2/colibrip/public_html/_prueba_colibri/index.php:30
+Stack trace:
+#0 {main}
+  thrown in /home2/colibrip/public_html/_prueba_colibri/index.php on line 30
+[19-Sep-2026 09:39:42 America/Mexico_City] PHP Warning:  require_once(/home2/colibrip/public_html/includes/public_catalog.php): Failed to open stream: No such file or directory in /home2/colibrip/public_html/producto.php on line 4
+[19-Sep-2026 09:39:42 America/Mexico_City] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/colibrip/public_html/includes/public_catalog.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home2/colibrip/public_html/producto.php:4
+Stack trace:
+#0 {main}
+  thrown in /home2/colibrip/public_html/producto.php on line 4
+[19-Sep-2026 10:22:23 America/Chihuahua] PHP Fatal error:  Uncaught Error: Call to undefined function cp_meta() in /home2/colibrip/public_html/imprenta-parral.php:1
+Stack trace:
+#0 {main}
+  thrown in /home2/colibrip/public_html/imprenta-parral.php on line 1
+[19-Sep-2026 10:22:29 America/Chihuahua] PHP Fatal error:  Uncaught Error: Call to undefined function cp_meta() in /home2/colibrip/public_html/imprenta-parral.php:1
+Stack trace:
+#0 {main}
+  thrown in /home2/colibrip/public_html/imprenta-parral.php on line 1
+[19-Sep-2026 10:23:40 America/Chihuahua] PHP Fatal error:  Uncaught Error: Call to undefined function cp_meta() in /home2/colibrip/public_html/imprenta-parral.php:1
+Stack trace:
+#0 {main}
+  thrown in /home2/colibrip/public_html/imprenta-parral.php on line 1
+[19-Sep-2026 10:23:41 America/Chihuahua] PHP Fatal error:  Uncaught Error: Call to undefined function cp_meta() in /home2/colibrip/public_html/imprenta-parral.php:1
+Stack trace:
+#0 {main}
+  thrown in /home2/colibrip/public_html/imprenta-parral.php on line 1
+[19-Sep-2026 10:23:42 America/Chihuahua] PHP Fatal error:  Uncaught Error: Call to undefined function cp_meta() in /home2/colibrip/public_html/imprenta-parral.php:1
+Stack trace:
+#0 {main}
+  thrown in /home2/colibrip/public_html/imprenta-parral.php on line 1
+[19-Sep-2026 10:23:42 America/Chihuahua] PHP Fatal error:  Uncaught Error: Call to undefined function cp_meta() in /home2/colibrip/public_html/imprenta-parral.php:1
+Stack trace:
+#0 {main}
+  thrown in /home2/colibrip/public_html/imprenta-parral.php on line 1
+[19-Sep-2026 15:00:04 America/Chihuahua] PHP Fatal error:  Uncaught Error: Call to undefined function company_profile() in /home2/colibrip/public_html/orden_pdf.php:38
+Stack trace:
+#0 {main}
+  thrown in /home2/colibrip/public_html/orden_pdf.php on line 38
+[19-Sep-2026 15:00:12 America/Chihuahua] PHP Fatal error:  Uncaught Error: Call to undefined function company_profile() in /home2/colibrip/public_html/orden_pdf.php:38
+Stack trace:
+#0 {main}
+  thrown in /home2/colibrip/public_html/orden_pdf.php on line 38
+[19-Sep-2026 15:00:40 America/Chihuahua] PHP Fatal error:  Uncaught Error: Call to undefined function company_profile() in /home2/colibrip/public_html/orden_pdf.php:38
+Stack trace:
+#0 {main}
+  thrown in /home2/colibrip/public_html/orden_pdf.php on line 38
+[19-Sep-2026 15:08:36 America/Chihuahua] PHP Fatal error:  Uncaught Error: Call to undefined function company_profile() in /home2/colibrip/public_html/orden_pdf.php:36
+Stack trace:
+#0 {main}
+  thrown in /home2/colibrip/public_html/orden_pdf.php on line 36
+[19-Sep-2026 15:08:42 America/Chihuahua] PHP Fatal error:  Uncaught Error: Call to undefined function company_profile() in /home2/colibrip/public_html/orden_pdf.php:36
+Stack trace:
+#0 {main}
+  thrown in /home2/colibrip/public_html/orden_pdf.php on line 36
+[19-Sep-2026 15:08:48 America/Chihuahua] PHP Fatal error:  Uncaught Error: Call to undefined function company_profile() in /home2/colibrip/public_html/orden_pdf.php:36
+Stack trace:
+#0 {main}
+  thrown in /home2/colibrip/public_html/orden_pdf.php on line 36
+[19-Sep-2026 15:13:02 America/Chihuahua] PHP Fatal error:  Uncaught Error: Call to undefined function company_profile() in /home2/colibrip/public_html/orden_pdf.php:38
+Stack trace:
+#0 {main}
+  thrown in /home2/colibrip/public_html/orden_pdf.php on line 38
+[19-Sep-2026 15:13:09 America/Chihuahua] PHP Fatal error:  Uncaught Error: Call to undefined function company_profile() in /home2/colibrip/public_html/orden_pdf.php:38
+Stack trace:
+#0 {main}
+  thrown in /home2/colibrip/public_html/orden_pdf.php on line 38
+[19-Sep-2026 15:17:30 America/Chihuahua] PHP Fatal error:  Uncaught Error: Call to undefined function company_profile() in /home2/colibrip/public_html/orden_pdf.php:301
+Stack trace:
+#0 {main}
+  thrown in /home2/colibrip/public_html/orden_pdf.php on line 301
+[19-Sep-2026 15:17:33 America/Chihuahua] PHP Fatal error:  Uncaught Error: Call to undefined function company_profile() in /home2/colibrip/public_html/orden_pdf.php:301
+Stack trace:
+#0 {main}
+  thrown in /home2/colibrip/public_html/orden_pdf.php on line 301

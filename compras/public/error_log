@@ -1,0 +1,71 @@
+[15-Sep-2026 12:34:51 America/Chihuahua] PHP Parse error:  syntax error, unexpected token "}" in /home2/colibrip/public_html/compras/app/core/layout.php on line 1
+[15-Sep-2026 12:34:55 America/Chihuahua] PHP Parse error:  syntax error, unexpected token "}" in /home2/colibrip/public_html/compras/app/core/layout.php on line 1
+[15-Sep-2026 12:37:35 America/Chihuahua] PHP Parse error:  syntax error, unexpected token "}" in /home2/colibrip/public_html/compras/app/core/layout.php on line 1
+[15-Sep-2026 12:37:40 America/Chihuahua] PHP Parse error:  syntax error, unexpected token "}" in /home2/colibrip/public_html/compras/app/core/layout.php on line 1
+[15-Sep-2026 12:42:13 America/Chihuahua] PHP Parse error:  syntax error, unexpected token "}" in /home2/colibrip/public_html/compras/app/core/layout.php on line 1
+[15-Sep-2026 12:50:03 America/Chihuahua] PHP Parse error:  syntax error, unexpected token "}" in /home2/colibrip/public_html/compras/app/core/layout.php on line 1
+[15-Sep-2026 12:53:02 America/Chihuahua] PHP Parse error:  syntax error, unexpected token "}" in /home2/colibrip/public_html/compras/app/core/layout.php on line 1
+[15-Sep-2026 14:57:50 America/Chihuahua] PHP Parse error:  syntax error, unexpected token "}" in /home2/colibrip/public_html/compras/app/core/layout.php on line 1
+[15-Sep-2026 14:57:57 America/Chihuahua] PHP Parse error:  syntax error, unexpected token "}" in /home2/colibrip/public_html/compras/app/core/layout.php on line 1
+[15-Sep-2026 14:57:59 America/Chihuahua] PHP Parse error:  syntax error, unexpected token "}" in /home2/colibrip/public_html/compras/app/core/layout.php on line 1
+[15-Sep-2026 14:58:00 America/Chihuahua] PHP Parse error:  syntax error, unexpected token "}" in /home2/colibrip/public_html/compras/app/core/layout.php on line 1
+[15-Sep-2026 14:58:21 America/Chihuahua] PHP Parse error:  syntax error, unexpected token "}" in /home2/colibrip/public_html/compras/app/core/layout.php on line 1
+[15-Sep-2026 15:03:20 America/Chihuahua] PHP Parse error:  syntax error, unexpected token "}" in /home2/colibrip/public_html/compras/app/core/layout.php on line 1
+[15-Sep-2026 15:04:03 America/Chihuahua] PHP Parse error:  syntax error, unexpected token "}" in /home2/colibrip/public_html/compras/app/core/layout.php on line 1
+[15-Sep-2026 15:04:27 America/Chihuahua] PHP Parse error:  syntax error, unexpected token "}" in /home2/colibrip/public_html/compras/app/core/layout.php on line 1
+[15-Sep-2026 15:04:30 America/Chihuahua] PHP Parse error:  syntax error, unexpected token "}" in /home2/colibrip/public_html/compras/app/core/layout.php on line 1
+[15-Sep-2026 15:20:28 America/Chihuahua] PHP Parse error:  syntax error, unexpected token "}" in /home2/colibrip/public_html/compras/app/core/layout.php on line 1
+[15-Sep-2026 15:20:40 America/Chihuahua] PHP Parse error:  syntax error, unexpected token "}" in /home2/colibrip/public_html/compras/app/core/layout.php on line 1
+[15-Sep-2026 15:21:10 America/Chihuahua] PHP Parse error:  syntax error, unexpected token "}" in /home2/colibrip/public_html/compras/app/core/layout.php on line 1
+[15-Sep-2026 15:21:14 America/Chihuahua] PHP Parse error:  syntax error, unexpected token "}" in /home2/colibrip/public_html/compras/app/core/layout.php on line 1
+[15-Sep-2026 15:22:31 America/Chihuahua] PHP Parse error:  syntax error, unexpected token "}" in /home2/colibrip/public_html/compras/app/core/layout.php on line 1
+[15-Sep-2026 15:22:43 America/Chihuahua] PHP Parse error:  syntax error, unexpected token "}" in /home2/colibrip/public_html/compras/app/core/layout.php on line 1
+[15-Sep-2026 15:22:49 America/Chihuahua] PHP Parse error:  syntax error, unexpected token "}" in /home2/colibrip/public_html/compras/app/core/layout.php on line 1
+[15-Sep-2026 15:22:50 America/Chihuahua] PHP Parse error:  syntax error, unexpected token "}" in /home2/colibrip/public_html/compras/app/core/layout.php on line 1
+[15-Sep-2026 15:37:55 America/Chihuahua] PHP Parse error:  syntax error, unexpected token "}" in /home2/colibrip/public_html/compras/app/core/layout.php on line 1
+[15-Sep-2026 15:40:44 America/Chihuahua] PHP Fatal error:  Uncaught Error: Call to undefined function head() in /home2/colibrip/public_html/compras/public/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /home2/colibrip/public_html/compras/public/index.php on line 10
+[15-Sep-2026 16:09:41 America/Chihuahua] PHP Parse error:  syntax error, unexpected token "}" in /home2/colibrip/public_html/compras/app/core/layout.php on line 1
+[15-Sep-2026 16:09:53 America/Chihuahua] PHP Parse error:  syntax error, unexpected token "}" in /home2/colibrip/public_html/compras/app/core/layout.php on line 1
+[15-Sep-2026 16:09:57 America/Chihuahua] PHP Parse error:  syntax error, unexpected token "}" in /home2/colibrip/public_html/compras/app/core/layout.php on line 1
+[15-Sep-2026 16:20:12 America/Chihuahua] PHP Parse error:  syntax error, unexpected token "}" in /home2/colibrip/public_html/compras/app/core/layout.php on line 1
+[15-Sep-2026 16:20:16 America/Chihuahua] PHP Parse error:  syntax error, unexpected token "}" in /home2/colibrip/public_html/compras/app/core/layout.php on line 1
+[15-Sep-2026 16:20:18 America/Chihuahua] PHP Parse error:  syntax error, unexpected token "}" in /home2/colibrip/public_html/compras/app/core/layout.php on line 1
+[15-Sep-2026 17:23:02 America/Chihuahua] PHP Parse error:  syntax error, unexpected token "}" in /home2/colibrip/public_html/compras/app/core/layout.php on line 1
+[15-Sep-2026 17:23:04 America/Chihuahua] PHP Parse error:  syntax error, unexpected token "}" in /home2/colibrip/public_html/compras/app/core/layout.php on line 1
+[15-Sep-2026 17:23:08 America/Chihuahua] PHP Parse error:  syntax error, unexpected token "}" in /home2/colibrip/public_html/compras/app/core/layout.php on line 1
+[15-Sep-2026 17:25:17 America/Chihuahua] PHP Parse error:  syntax error, unexpected token "}" in /home2/colibrip/public_html/compras/app/core/layout.php on line 1
+[15-Sep-2026 17:25:20 America/Chihuahua] PHP Parse error:  syntax error, unexpected token "}" in /home2/colibrip/public_html/compras/app/core/layout.php on line 1
+[15-Sep-2026 17:46:22 America/Chihuahua] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'colibrip_compras.clientes' doesn't exist in /home2/colibrip/public_html/compras/public/clientes.php:12
+Stack trace:
+#0 /home2/colibrip/public_html/compras/public/clientes.php(12): PDO->prepare('SELECT * FROM c...')
+#1 {main}
+  thrown in /home2/colibrip/public_html/compras/public/clientes.php on line 12
+[15-Sep-2026 17:46:27 America/Chihuahua] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'colibrip_compras.clientes' doesn't exist in /home2/colibrip/public_html/compras/public/clientes.php:12
+Stack trace:
+#0 /home2/colibrip/public_html/compras/public/clientes.php(12): PDO->prepare('SELECT * FROM c...')
+#1 {main}
+  thrown in /home2/colibrip/public_html/compras/public/clientes.php on line 12
+[15-Sep-2026 17:48:31 America/Chihuahua] Importar clientes Akaunting: No se encontró la tabla 'contacts' en la base de datos Akaunting. Si tu instalación usa otro nombre, necesitamos revisar su estructura.
+[15-Sep-2026 18:00:47 America/Chihuahua] PHP Fatal error:  Uncaught RuntimeException: Falta la configuración de la base de datos de Akaunting. in /home2/colibrip/public_html/compras/app/core/bootstrap.php:65
+Stack trace:
+#0 /home2/colibrip/public_html/compras/public/clientes.php(6): akauntingPdo()
+#1 {main}
+  thrown in /home2/colibrip/public_html/compras/app/core/bootstrap.php on line 65
+[15-Sep-2026 18:00:54 America/Chihuahua] PHP Fatal error:  Uncaught RuntimeException: Falta la configuración de la base de datos de Akaunting. in /home2/colibrip/public_html/compras/app/core/bootstrap.php:65
+Stack trace:
+#0 /home2/colibrip/public_html/compras/public/trabajos.php(7): akauntingPdo()
+#1 {main}
+  thrown in /home2/colibrip/public_html/compras/app/core/bootstrap.php on line 65
+[16-Sep-2026 20:16:45 America/Chihuahua] PHP Fatal error:  Uncaught RuntimeException: Falta la configuración de la base de datos de Akaunting. in /home2/colibrip/public_html/compras/app/core/bootstrap.php:65
+Stack trace:
+#0 /home2/colibrip/public_html/compras/public/trabajos.php(7): akauntingPdo()
+#1 {main}
+  thrown in /home2/colibrip/public_html/compras/app/core/bootstrap.php on line 65
+[16-Sep-2026 20:18:00 America/Chihuahua] PHP Fatal error:  Uncaught RuntimeException: Falta la configuración de la base de datos de Akaunting. in /home2/colibrip/public_html/compras/app/core/bootstrap.php:65
+Stack trace:
+#0 /home2/colibrip/public_html/compras/public/clientes.php(6): akauntingPdo()
+#1 {main}
+  thrown in /home2/colibrip/public_html/compras/app/core/bootstrap.php on line 65

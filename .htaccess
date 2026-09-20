@@ -1,0 +1,11 @@
+Options -Indexes
+DirectoryIndex index.php
+
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteRule ^(?:config|database|includes|api/private)/ - [F,L,NC]
+</IfModule>
+
+<FilesMatch "\.(sql|log|ini|env|bak|old)$">
+    Require all denied
+</FilesMatch>
